@@ -1,6 +1,7 @@
 # curriculo-dionei-despertardev#
 
-![Captura de Tela (44)](https://github.com/dionei-silva/curriculo-dionei-despertardev/assets/109190260/74871175-28a3-40d2-ba06-eeafb2b980ae)
+![Captura de Tela (44)](![image](https://github.com/user-attachments/assets/cc2644b7-1378-45dd-922b-3cb2fa3598fc)
+)
 ![Captura de Tela (45)](https://github.com/dionei-silva/curriculo-dionei-despertardev/assets/109190260/058ec353-9288-4dc9-80e2-e77d23497039)
 ![Captura de Tela (46)](https://github.com/dionei-silva/curriculo-dionei-despertardev/assets/109190260/199d7990-3633-4fc8-ac9e-8964b8be6cdc)
 
